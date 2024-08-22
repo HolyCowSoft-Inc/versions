@@ -3,13 +3,13 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
-    
     <item>
-      <title>Escape Release v1.0.6</title>
-      <enclosure sparkle:version="1.0.6" sparkle:os="android"/>
-
-      <!-- multi enclosures not supported -->
-      <enclosure sparkle:version="1.0.6" sparkle:os="ios"/>
+      <title>Android Release</title>
+      <enclosure sparkle:version="1.0.0" sparkle:os="android"/>
+    </item>
+    <item>
+      <title>iOS Release</title>
+      <enclosure sparkle:version="1.0.0" sparkle:os="ios"/>
     </item>
   </channel>
 </rss>
