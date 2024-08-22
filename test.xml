@@ -3,6 +3,7 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
+    <!-- v1.1.0 -->
     <item>
       <title>Android Release</title>
       <enclosure sparkle:version="1.1.0" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape&pcampaignid=web_share"/>
