@@ -1,1 +1,14 @@
-test
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Releases</title>
+    <item>
+      <title>Escape Release v1.0.6</title>
+      <enclosure sparkle:version="1.0.6" sparkle:os="android"/>
+
+      <!-- multi enclosures not supported -->
+      <enclosure sparkle:version="1.0.6" sparkle:os="ios"/>
+    </item>
+  </channel>
+</rss>
