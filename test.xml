@@ -5,11 +5,11 @@
     <title>Releases</title>
     <item>
       <title>Android Release</title>
-      <enclosure sparkle:version="1.0.0" sparkle:os="android"/>
+      <enclosure sparkle:version="1.1.0" sparkle:os="android"/>
     </item>
     <item>
       <title>iOS Release</title>
-      <enclosure sparkle:version="1.0.0" sparkle:os="ios"/>
+      <enclosure sparkle:version="1.1.0" sparkle:os="ios"/>
     </item>
   </channel>
 </rss>
