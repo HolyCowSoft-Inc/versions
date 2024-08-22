@@ -4,6 +4,13 @@
   <channel>
     <title>Releases</title>
     <item>
+      <title>Escape Release v1.0.7</title>
+      <enclosure sparkle:version="1.0.7" sparkle:os="android"/>
+
+      <!-- multi enclosures not supported -->
+      <enclosure sparkle:version="1.0.7" sparkle:os="ios"/>
+    </item>
+    <item>
       <title>Escape Release v1.0.6</title>
       <enclosure sparkle:version="1.0.6" sparkle:os="android"/>
 
