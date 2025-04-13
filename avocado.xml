@@ -7,23 +7,23 @@
     <item>
       <title>Android Release</title>
       <description></description>
-      <enclosure sparkle:version="1.0.7+0" sparkle:os="android" url=""/>
+      <enclosure sparkle:version="1.0.7+0" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.bp.avocado"/>
     </item>
     <item>
       <title>iOS Release</title>
       <description></description>
-      <enclosure sparkle:version="1.0.7+0" sparkle:os="ios" url=""/>
+      <enclosure sparkle:version="1.0.7+0" sparkle:os="ios" url="https://apps.apple.com/kr/app/avocado/id6743963332"/>
     </item>
     <!-- v1.0.0 -->
     <item>
       <title>Android Release</title>
       <description></description>
-      <enclosure sparkle:version="1.0.0" sparkle:os="android" url=""/>
+      <enclosure sparkle:version="1.0.0" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.bp.avocado"/>
     </item>
     <item>
       <title>iOS Release</title>
       <description></description>
-      <enclosure sparkle:version="1.0.0" sparkle:os="ios" url=""/>
+      <enclosure sparkle:version="1.0.0" sparkle:os="ios" url="https://apps.apple.com/kr/app/avocado/id6743963332"/>
     </item>
   </channel>
 </rss>
