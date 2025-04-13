@@ -3,7 +3,18 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
-    <!-- v1.1.0 -->
+    <!-- v1.0.7+0 -->
+    <item>
+      <title>Android Release</title>
+      <description></description>
+      <enclosure sparkle:version="1.0.7+0" sparkle:os="android" url=""/>
+    </item>
+    <item>
+      <title>iOS Release</title>
+      <description></description>
+      <enclosure sparkle:version="1.0.7+0" sparkle:os="ios" url=""/>
+    </item>
+    <!-- v1.0.0 -->
     <item>
       <title>Android Release</title>
       <description></description>
