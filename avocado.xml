@@ -3,6 +3,17 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
+    <!-- v1.0.10+12 -->
+    <item>
+      <title>Android Release</title>
+      <description></description>
+      <enclosure sparkle:version="1.0.7+10" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.bp.avocado"/>
+    </item>
+    <item>
+      <title>iOS Release</title>
+      <description></description>
+      <enclosure sparkle:version="1.0.10+12" sparkle:os="ios" url="https://apps.apple.com/kr/app/avocado/id6743963332"/>
+    </item>
     <!-- v1.0.7+0 -->
     <item>
       <title>Android Release</title>
